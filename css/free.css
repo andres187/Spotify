@@ -162,6 +162,10 @@ body {
   -webkit-text-stroke-color: #eee;
 }
 
+.card {
+  border-radius: 0;
+}
+
 /*
  * Footer
  */
