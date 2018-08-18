@@ -28,6 +28,17 @@ a:hover {
   z-index: -1;
 }
 
+.cover-image-ak {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background-image: url(../img/premium_dancer.png);
+  background-size: cover;
+  z-index: -1;
+}
+
 /*
  * Base structure
  */
